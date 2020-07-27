@@ -43,10 +43,9 @@ It's also good for people who already have **basic knowledge** in Python and kno
 
 Source: [250+ Exercises - Data Science Bootcamp in Python](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/). Author: [Paweł Krakowiak](https://www.udemy.com/user/krakowiakpawel9/).
 
+# Brazilian-Portuguese:
 
 # Exercícios de Python
-
-![](https://i.imgur.com/lCn1f0g.png)
 
 **Exercícios de Python aplicado a ciência de dados** com ênfase em conhecimento de bibliotecas.
 
