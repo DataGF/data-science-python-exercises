@@ -89,7 +89,7 @@ Também é bom para pessoas que já possuem **conhecimentos básicos** em Python
 
 Fonte 1: [Bootcamp em python: mais de 250 exercícios de data science](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/). Título origital em inglês: 250+ Exercises - Data Science Bootcamp in Python. Autor: [Paweł Krakowiak](https://www.udemy.com/user/krakowiakpawel9/).
 
-Fonte 2: [Aprendizagem de máquina para engenheiros de software (com adaptações)](https://www.educative.io/courses/machine-learning-for-software-engineers). Course by: [Adaptilab](https://www.adaptilab.com/).
+Fonte 2: [Aprendizagem de máquina para engenheiros de software (com adaptações)](https://www.educative.io/courses/machine-learning-for-software-engineers). Curso feito por: [Adaptilab](https://www.adaptilab.com/).
 
 
 ![](https://i.imgur.com/meHJQw2s.png)
