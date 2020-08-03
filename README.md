@@ -41,7 +41,9 @@ It's also good for people who already have **basic knowledge** in Python and kno
 - interested in data science, data analysis and machine learning.
 
 
-Source: [250+ Exercises - Data Science Bootcamp in Python](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/). Author: [Paweł Krakowiak](https://www.udemy.com/user/krakowiakpawel9/).
+Source 1: [250+ Exercises - Data Science Bootcamp in Python](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/). Author: [Paweł Krakowiak](https://www.udemy.com/user/krakowiakpawel9/).
+
+Source 2: [Machine Learning for Software Engineers (with adaptations)](https://www.educative.io/courses/machine-learning-for-software-engineers). Course by: [Adaptilab](https://www.adaptilab.com/).
 
 
 # Exercícios de Python (brazilian-portuguese)
@@ -85,7 +87,9 @@ Também é bom para pessoas que já possuem **conhecimentos básicos** em Python
 - está interessado em ciência de dados, análise de dados e aprendizado de máquina.
 
 
-Fonte: [Bootcamp em python: mais de 250 exercícios de data science](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/). Título origital em inglês: 250+ Exercises - Data Science Bootcamp in Python. Autor: [Paweł Krakowiak](https://www.udemy.com/user/krakowiakpawel9/).
+Fonte 1: [Bootcamp em python: mais de 250 exercícios de data science](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/). Título origital em inglês: 250+ Exercises - Data Science Bootcamp in Python. Autor: [Paweł Krakowiak](https://www.udemy.com/user/krakowiakpawel9/).
+
+Fonte 2: [Aprendizagem de máquina para engenheiros de software (com adaptações)](https://www.educative.io/courses/machine-learning-for-software-engineers). Course by: [Adaptilab](https://www.adaptilab.com/).
 
 
 ![](https://i.imgur.com/meHJQw2s.png)
