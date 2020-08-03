@@ -94,7 +94,7 @@ Fonte 2: [Aprendizagem de máquina para engenheiros de software (com adaptaçõe
 
 ![](https://i.imgur.com/meHJQw2s.png)
 
-**Gilberto Filho**
+[**Gilberto Filho**](www.linkedin.com/in/gilberto-filho-analista-de-dados)
 
 Analista de Dados | Cientista de Dados | Desenvolvedor 
 
