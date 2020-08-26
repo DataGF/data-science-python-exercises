@@ -45,6 +45,8 @@ Source 1: [250+ Exercises - Data Science Bootcamp in Python](https://www.udemy.c
 
 Source 2: [Machine Learning for Software Engineers (with adaptations)](https://www.educative.io/courses/machine-learning-for-software-engineers). Course by: [Adaptilab](https://www.adaptilab.com/).
 
+Source 3: [Data Analysis with Python: Zero to Pandas (with adaptations)](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas). Author: [Aakash N S](https://www.linkedin.com/in/aakashns/).
+
 
 # Exercícios de Python (brazilian-portuguese)
 
@@ -91,7 +93,7 @@ Fonte 1: [Bootcamp em python: mais de 250 exercícios de data science](https://w
 
 Fonte 2: [Aprendizagem de máquina para engenheiros de software (com adaptações)](https://www.educative.io/courses/machine-learning-for-software-engineers). Curso feito por: [Adaptilab](https://www.adaptilab.com/).
 
-Fonte 3: [Data Analysis with Python: Zero to Pandas](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas). Curso feito por: [Aakash N S](https://www.linkedin.com/in/aakashns/).
+Fonte 3: [Data Analysis with Python: Zero to Pandas](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas). Autor: [Aakash N S](https://www.linkedin.com/in/aakashns/).
 
 
 ![](https://i.imgur.com/meHJQw2s.png)
