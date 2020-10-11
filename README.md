@@ -47,6 +47,8 @@ Source 2: [Machine Learning for Software Engineers (with adaptations)](https://w
 
 Source 3: [Data Analysis with Python: Zero to Pandas (with adaptations)](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas). Author: [Aakash N S](https://www.linkedin.com/in/aakashns/).
 
+Source 4: [Data Science from Scratch](https://minerandodados.com.br/curso-de-data-science/). Original title in Portuguese: Data Science do Zero. Course by: [Minerando Dados](https://minerandodados.com.br/).
+
 
 # Exercícios de Python (brazilian-portuguese)
 
@@ -94,6 +96,8 @@ Fonte 1: [Bootcamp em python: mais de 250 exercícios de data science](https://w
 Fonte 2: [Aprendizagem de máquina para engenheiros de software (com adaptações)](https://www.educative.io/courses/machine-learning-for-software-engineers). Curso feito por: [Adaptilab](https://www.adaptilab.com/).
 
 Fonte 3: [Data Analysis with Python: Zero to Pandas](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas). Autor: [Aakash N S](https://www.linkedin.com/in/aakashns/).
+
+Fonte 4: [Data Science from Scratch](https://minerandodados.com.br/curso-de-data-science/). Curso feito por: [Minerando Dados](https://minerandodados.com.br/).
 
 
 ![](https://i.imgur.com/meHJQw2s.png)
