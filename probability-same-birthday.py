@@ -17,7 +17,7 @@ Keep changing the number to test out different simulations.
 
 import random
 
-num_people_in_room = 40 			#Change This Number
+num_people_in_room = 10 			#Change This Number
 
 #Simulate a room with a certain number of people
 def simulate(num_people):
